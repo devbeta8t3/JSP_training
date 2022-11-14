@@ -2,4 +2,4 @@
 
 Curriculum at Busan IT training center
 
-Exercise codes
+Exercise codes using JDK 17
